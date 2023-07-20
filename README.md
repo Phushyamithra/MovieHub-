@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Project Goal :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this project is to create a dynamic React.js web application that simulates an IMDb-like platform, allowing users to explore and discover different movies. The application aims to provide users with comprehensive movie details and relevant information, fetched through APIs. Users will have the ability to search for specific movies, enhancing their movie-watching experience by accessing a wide range of films conveniently and efficiently.
+
+# Show Reel :
+
+
+https://github.com/Phushyamithra/MovieHub-/assets/60391390/98790d86-5db6-47ff-9266-211abec20d7b
+
+
 
 ## Available Scripts
 

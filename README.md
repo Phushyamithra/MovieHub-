@@ -7,7 +7,8 @@ The goal of this project is to create a dynamic React.js web application that si
 
 https://github.com/Phushyamithra/MovieHub-/assets/60391390/98790d86-5db6-47ff-9266-211abec20d7b
 
-
+# Concepts Learnt :
+React.js Fundamentals, API Integration, UI Design and Styling, Search Functionality, Front-end Development
 
 ## Available Scripts
 
